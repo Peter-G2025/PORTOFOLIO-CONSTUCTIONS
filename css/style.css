@@ -1,6 +1,8 @@
 @media screen and (max-width: 768px) {
     body{
         background: #ffff;
+        position:relative;
+        bottom: 100px;
     }
 
     .img_logo{
@@ -61,3 +63,4 @@
 
 
 }
+
